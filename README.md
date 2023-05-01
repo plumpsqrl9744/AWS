@@ -59,7 +59,7 @@
   - 예를들어 컴퓨터를 구매했는데 너한테 모든 선택권을 줄게 하면서 운영체제를 입히지 않은 상태로 주는 것
   - 대표적으로 AWS EC2
 
-- Paas(Plattform as a Service)
+- <strong>Paas(Plattform as a Service)</strong>
 
   - 컴퓨터에 뭔가를 더 얹어서 제공
   - laas에 더불어 필요한 것들을 추가해서 제공해주는 것
@@ -69,7 +69,7 @@
   - 하지만, 특정 플랫폼에 종속적이 될 수 있고, 해당 플랫폼에서 접근을 허용하지 않는 부분은 제어할 수 없다는 점, laaS에 비해 더 높은 비용을 지불해야 할 수도 있다는 점이 있다.
   - 대표적으로 AWS Elastic BeanStalk, Heroku, Github Pases, vercel
 
-- Saas(Software as a Service)
+- <strong>Saas(Software as a Service)</strong>
 
   - 개발자가 쓰기보단 일반 사용자가 쓰는 형태
   - 애플리케이션을 PC에 설치할 필요가 없으며, 서비스를 활용하기 위해 만들어진 소프트웨어가 제공된다.
